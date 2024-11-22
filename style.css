@@ -17,6 +17,7 @@ section{
 img {
     height: 200px;
 }
+
 .filosofia-antiga{
     display: flex;
     overflow-x: auto;
